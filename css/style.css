@@ -1,0 +1,92 @@
+@font-face {
+    font-family: Yekan Bakh;
+    font-style: normal;
+    font-weight: 100;
+    src: url('../fonts/Webfonts/Woff/IRANYekanXFaNum-Regular.woff') format('woff'),
+    url('../fonts/Webfonts/woff2/IRANYekanX-Regular.woff2') format('woff2');
+  }
+  @font-face {
+    font-family: Yekan Bakh;
+    font-style: normal;
+    font-weight: 200;
+    src: url('../fonts/Webfonts/Woff/IRANYekanXFaNum-Regular.woff') format('woff'),
+    url('../fonts/Webfonts/woff2/IRANYekanX-Regular.woff2') format('woff2');
+  }
+  @font-face {
+    font-family: Yekan Bakh;
+    font-style: normal;
+    font-weight: 300;
+    src: url('../fonts/Webfonts/Woff/IRANYekanXFaNum-Regular.woff') format('woff'),
+    url('../fonts/Webfonts/woff2/IRANYekanX-Regular.woff2') format('woff2');
+  }
+  
+  @font-face {
+    font-family: Yekan Bakh;
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/Webfonts/Woff/IRANYekanXFaNum-Regular.woff') format('woff'),
+    url('../fonts/Webfonts/woff2/IRANYekanX-Regular.woff2') format('woff2');
+  }
+  @font-face {
+    font-family: Yekan Bakh;
+    font-style: normal;
+    font-weight: 500;
+    src: url('../fonts/Webfonts/Woff/IRANYekanXFaNum-Regular.woff') format('woff'),
+    url('../fonts/Webfonts/woff2/IRANYekanX-Regular.woff2') format('woff2');
+  }
+  @font-face {
+    font-family: Yekan Bakh;
+    font-style: normal;
+    font-weight: 600;
+    src: url('../fonts/Webfonts/Woff/IRANYekanXFaNum-Regular.woff') format('woff'),
+    url('../fonts/Webfonts/woff2/IRANYekanX-Regular.woff2') format('woff2');
+  }
+  
+  @font-face {
+    font-family: Yekan Bakh;
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/Webfonts/Woff/IRANYekanXFaNum-Bold.woff') format('woff'),
+    url('../fonts/Webfonts/woff2/IRANYekanX-Bold.woff2') format('woff2');
+  }
+  @font-face {
+    font-family: Yekan Bakh;
+    font-style: normal;
+    font-weight: 800;
+    src: url('../fonts/Webfonts/Woff/IRANYekanXFaNum-Bold.woff') format('woff'),
+    url('../fonts/Webfonts/woff2/IRANYekanX-Bold.woff2') format('woff2');
+  }
+  @font-face {
+    font-family: Yekan Bakh;
+    font-style: normal;
+    font-weight: 900;
+    src: url('../fonts/Webfonts/Woff/IRANYekanXFaNum-Bold.woff') format('woff'),
+    url('../fonts/Webfonts/woff2/IRANYekanX-Bold.woff2') format('woff2');
+  }
+
+  *:not(i) {
+    font-family: Yekan Bakh !important;
+    box-sizing: border-box;
+    letter-spacing: 0 !important;
+  }
+
+  .iconInput{
+    border-right: 1px solid #E3E3E3 !important;
+    border-top-right-radius:30px !important;
+    border-bottom-right-radius:30px !important;
+    border-top-left-radius:0 !important;
+    border-bottom-left-radius:0 !important;
+    border-left:none !important ;
+  }
+  .inputCont{
+    /* border-left: 1px solid #E3E3E3 !important; */
+    border-right:none !important ;
+    border-top-right-radius:0 !important;
+    border-bottom-right-radius:0 !important;
+    border-top-left-radius:30px !important;
+    border-bottom-left-radius:30px !important;
+
+  }
+  .container{
+    padding-bottom: 15px;
+  }
