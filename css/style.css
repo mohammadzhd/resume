@@ -87,6 +87,6 @@
     border-bottom-left-radius:30px !important;
 
   }
-  .container{
+  .container:not(.navbar .container){
     padding-bottom: 15px;
   }
